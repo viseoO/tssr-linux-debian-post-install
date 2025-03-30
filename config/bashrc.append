@@ -1,0 +1,2 @@
+alias ll='ls -la --color=auto'
+PS1='\u@\h:\w\$ '
