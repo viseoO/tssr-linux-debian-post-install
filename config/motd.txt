@@ -1,7 +1,9 @@
-   /\                 /\
-  / \'._   (\_/)   _.'/ \
- /_.''._'--('.')--'_.''._\
- | \_ / `;=/ " \=;` \ _/ |
-  \/ `\__|`\___/`|__/`  \/
-          \(/|\)/       `
-           " ` "
+       (\_/)   
+       ( ^_^)  Bienvenue sur ce serveur Linux !  
+      / >🌟   ---------------------------------  
+     /  | |     
+    *   * *      
+📜 Règles d'utilisation :  
+✅ Ne partagez pas vos accès.  
+✅ Respectez la politique de sécurité.  
+✅ Contactez l'admin en cas de problème.  
